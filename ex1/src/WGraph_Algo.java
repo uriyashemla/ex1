@@ -13,7 +13,7 @@ public class WGraph_Algo implements weighted_graph_algorithms, Serializable{
 
     @Override
     public weighted_graph getGraph() {
-        return null;
+        return g;
     }
 
     /**
